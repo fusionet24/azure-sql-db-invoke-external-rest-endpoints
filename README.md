@@ -51,6 +51,13 @@ The notebook contains samples on how to invoke an HTTPS REST endpoint no matter 
 
 - Call an external REST endpoint using API Management
 
+### [Microsoft Graph]
+The notebook shows how Microsoft Graph API queries can be excuted that:
+
+- Retrive presence information of your account within an organisation.
+- Retrive presence information of users within an organisation.
+
+
 ## Contribute
 
 Do you want to contribute adding a sample? Do you see something missing or incorrect? Please help this repository to grow, and submit an issue or fork it a submit a Pull Request. Details on how to contribute can be found here: [Contributing](./CONTRIBUTING.md) 
